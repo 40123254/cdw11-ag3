@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-06-17T21:13:04-00:00</lastmod>
+<lastmod>2016-06-17T21:23:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-06-17T21:13:04-00:00</lastmod>
+<lastmod>2016-06-17T21:23:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-06-17T21:13:04-00:00</lastmod>
+<lastmod>2016-06-17T21:23:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-06-17T21:13:04-00:00</lastmod>
+<lastmod>2016-06-17T21:23:17-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./40123254-cdw14-bao-gao.html</loc>
+<lastmod>2016-06-17T21:20:25+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -61,20 +68,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/ag3.html</loc>
-<lastmod>2016-06-17T21:05:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/cdw13.html</loc>
-<lastmod>2016-06-17T21:05:00+08:06</lastmod>
+<lastmod>2016-06-17T21:20:25+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/40123254.html</loc>
+<lastmod>2016-06-17T21:20:25+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/cdw13.html</loc>
 <lastmod>2016-06-17T21:05:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -88,6 +95,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/cdw14.html</loc>
+<lastmod>2016-06-17T21:20:25+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/cdw11.html</loc>
 <lastmod>2016-06-17T20:34:55+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -96,7 +110,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40123254.html</loc>
-<lastmod>2016-06-17T21:05:00+08:06</lastmod>
+<lastmod>2016-06-17T21:20:25+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

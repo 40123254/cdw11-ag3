@@ -23,13 +23,15 @@
 <v t="amd.20160501215942.1" a="E"><vh>@path content/a/ag3</vh>
 <v t="amd.20160501215720.1"><vh>@edit 40123254.md</vh></v>
 <v t="leo.20160617210213.1"><vh>@edit 40123254_cdw13.md</vh></v>
+<v t="leo.20160617211857.1"><vh>@edit 40123254_cdw14.md</vh></v>
 </v>
 </v>
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
 <v t="leo.20160505173719.1"><vh>@edit ag3_40123254.py</vh></v>
-<v t="leo.20160617210231.1" a="E"><vh>@auto ag3_40123254_cdw12.py</vh></v>
+<v t="leo.20160617210231.1"><vh>@auto ag3_40123254_cdw12.py</vh></v>
+<v t="leo.20160617211913.1"><vh>@edit ag3_40123254_cdw14.py</vh></v>
 <v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
@@ -84,6 +86,7 @@ if __name__ == "__main__":
 #ag3
 app.register_blueprint(users.a.g3.ag3_40123254.ag3_40123254)
 app.register_blueprint(users.a.g3.ag3_40123254_cdw12.a40123254)
+app.register_blueprint(users.a.g3.ag3_40123254_cdw14.a40123254_1)
 </t>
 <t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
@@ -220,6 +223,7 @@ import init
 #ag3
 import users.a.g3.ag3_40123254
 import users.a.g3.ag3_40123254_cdw12
+import users.a.g3.ag3_40123254_cdw14
 
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線

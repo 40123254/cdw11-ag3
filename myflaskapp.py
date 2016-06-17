@@ -7,6 +7,7 @@ import os
 import init
 #ag3
 import users.a.g3.ag3_40123254
+import users.a.g3.ag3_40123254_cdw12
 
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
@@ -380,3 +381,4 @@ if __name__ == "__main__":
     app.run()
 #ag3
 app.register_blueprint(users.a.g3.ag3_40123254.ag3_40123254)
+app.register_blueprint(users.a.g3.ag3_40123254_cdw12.a40123254)
